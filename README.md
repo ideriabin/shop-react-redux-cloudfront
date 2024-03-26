@@ -1,3 +1,8 @@
+# URLs
+
+- CloudFront URL: https://d3u7hpzq6z7yg6.cloudfront.net/
+- S3 website: http://ideriabin-shop-cloudfront.s3-website-eu-west-1.amazonaws.com
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
